@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Zerec
+- 👀 I’m interested in learning about computer science
+- 🌱 I’m currently learning the basics
